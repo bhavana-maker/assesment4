@@ -1,0 +1,5 @@
+a=input("enter a statement")
+print(a.swapcase())
+print(a.title())
+print(a.lower())
+print(a.upper())
